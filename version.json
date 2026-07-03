@@ -1,0 +1,5 @@
+  {
+    "version": "v1.0.2",
+    "zip_url": "https://github.com/YOUR_USERNAME/neat-updates/releases/latest/download/NEAT.zip",
+    "notes": "Local Tailwind/Alpine bundle, Alteon + Junos checklist hardening, watchdog auto-shutdown, encrypted .neat configs."
+  }
